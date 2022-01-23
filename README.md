@@ -10,7 +10,3 @@
 # Run Test With tap-spec
 
 `npm run test-flow`
-
-# Open in browser
-
-[Click here](https://codesandbox.io/s/github/redux-saga/redux-saga/tree/master/examples/shopping-cart)
